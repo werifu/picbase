@@ -6,7 +6,7 @@ Vite & React & TypeScript
 ### Backend
 Rust & Actix &　Sqlite3
 ## Todo
-- [] Upload Images
-- [] Download/Refer Images
-- [] Delete Images
-- [] Authentication
+- [ ] Upload Images
+- [ ] Download/Refer Images
+- [ ] Delete Images
+- [ ] Authentication
